@@ -5,7 +5,7 @@ For information on the latest firmware for your Zymatic®, please click [here](F
 
 ## Quick Downloads
 
-[PicoFlash Utility](../common/PicoFlash.zip)  
+[PicoFlash Utility](../common/PicoFlash.zip)
 [Latest Zymatic® Firmware](Zymatic_1_1_14.zip)
 
 ## Installation Instructions

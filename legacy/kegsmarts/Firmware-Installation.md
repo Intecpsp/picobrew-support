@@ -5,7 +5,7 @@ For information on the latest firmware for your KegSmarts™, please click [here
 
 ## Quick Downloads
 
-[PicoFlash Utility](../common/PicoFlash.zip)  
+[PicoFlash Utility](../common/PicoFlash.zip)
 [Latest KegSmarts™ Firmware](KegSmarts_1_0_6.zip)
 
 ## Installation Instructions
